@@ -181,8 +181,10 @@ The API implements industry-standard security practices:
    ```
 
 4. Start the server:
-   node index
-   or nodemon
+   ```bash
+   node index 
+   or
+   nodemon
    ```
 
 ## 📄 License
